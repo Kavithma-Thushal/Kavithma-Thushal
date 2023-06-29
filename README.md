@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thushal2001/MyPortfolio](https://github.com/Thushal2001/MyPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Thushal2001](https://github.com/Thushal2001)
 
 - 💬 Ask me about **Java ,MySQL ,CSS ,HTML ,JavaScript**
 
