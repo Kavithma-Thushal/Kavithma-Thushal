@@ -15,7 +15,7 @@
 - 📫 How to reach me kavithmathushal9007@gmail.com `077 4519007`
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/code.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/img/githubImage.gif">
 
 ## 💻 Connect with me
 <p align="left">
