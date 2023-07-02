@@ -1,26 +1,58 @@
-<h1 align="center">Hi 👋, I'm Kavithma Thushal</h1>
-<h3 align="center">A Professional Fullstack Developer From Sri Lanka</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavithma+Thushal)](https://git.io/typing-svg)
+
+<h3 align="center"><i>A Professional Fullstack Developer From Sri Lanka</i></h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=IJSE+GDSE+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="thushal2001" /> </p>
 
-- 🔭 I’m currently learning **Software Engineering**
-- 👨‍💻 All of my projects are available at [https://github.com/Thushal2001?tab=repositories](https://github.com/Thushal2001?tab=repositories)
-- 💬 Ask me about **Java ,OOP ,SQL ,CSS ,HTML**
-- 📫 How to reach me **kavithmathushal9007@gmail.com / 077 4519007**<br/>
+## 👨‍🦰 About me
+- 🔥 I Studied at `Vidyaloka College`
+- 🔭 I'm Studying at `IJSE`-Institute of Software Engineering
+- 🌱 I’m currently learning `Computer Science` and `Software Engineering`
+- 🤔 I’m looking for `Help With Coding`
+- 💻 sk me about `Java`, `OOP`, `MySql`
+- 📫 How to reach me kavithmathushal9007@gmail.com `077 4519007`
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/AshanSandeep06/Images-repo/blob/master/src/assets/code.gif">
+
+## 💻 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/kavithma thushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://fb.com/kavithma thushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://instagram.com/kavithma thushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavithma thushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavithma-thushal-3b8a92260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://twitter.com/Thushal9007"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kavithma_thushal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100078869062566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavithmathushal1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
+</p><br/>
+
+## 🛠️ My Skills
+<h3 align="left"><b><i>Languages</i></b></h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,mongodb)](https://skillicons.dev)
+
+<h3 align="left"><b><i>Tools</i></b></h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img style="display: block; margin-bottom: 8px;" src="https://skillicons.dev/icons?i=idea,vscode,hibernate,jquery,bootstrap,spring,react,nodejs,postman,maven,regex,github,git,linkedin,figma"/>
+    <img style="display: block; margin-bottom: 8px;" src="https://skillicons.dev/icons?i=ps"/>
+  </a>
 </p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p><br/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=dark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=Thushal2001&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=Architect&no-frame=true&no-bg=false&margin-w=4)<br/>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🔥 GitHub Streak Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thushal2001&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
