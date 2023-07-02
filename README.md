@@ -43,8 +43,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 
 ## ✍️ Random Dev Quote
