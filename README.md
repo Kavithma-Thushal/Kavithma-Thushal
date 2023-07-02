@@ -55,4 +55,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
 
+<h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
