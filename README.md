@@ -11,7 +11,7 @@
 - 🔭 I'm Studying at `IJSE`-Institute of Software Engineering
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
-- 💻 sk me about `Java`, `OOP`, `MySql`
+- 💻 Ask me about `Java`, `OOP`, `MySql`
 - 📫 How to reach me kavithmathushal9007@gmail.com `077 4519007`
 <br/>
 
