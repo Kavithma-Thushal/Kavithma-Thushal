@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`, `MySql`
-- 📫 How to reach me https://www.kavithmathushal9007@gmail.com `077 4519007`
+- 📫 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/githubImages/githubImage.gif">
