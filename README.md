@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="thushal2001" /> </p>
 
-## 👨‍🦰 About me
+## ✌️ About me
 - 🔥 I Studied at `Vidyaloka College`
 - 🔭 I'm Studying at `IJSE`-Institute of Software Engineering
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`
@@ -50,7 +50,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## <img src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/githubImages/fire.gif" width="30px"> GitHub Stats
+## ⭐️ GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thushal2001&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
