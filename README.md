@@ -43,9 +43,9 @@
 <br/>
 
 ## <img src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/githubImages/progress.gif" width="30px"> GitHub Streak Stats
-![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 
 ## ✍️ Random Dev Quote
