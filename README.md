@@ -15,7 +15,7 @@
 - 📫 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/githubImages/githubImage.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/img.gif">
 
 ## 💻 Connect with me
 <p align="left">
@@ -27,7 +27,7 @@
 <a href="https://www.hackerrank.com/kavithmathushal1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
 </p><br/>
 
-## <img src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/githubImages/skills.gif" width="25px"> My Skills
+## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/skills.gif" width="25px"> My Skills
 <h3 align="left"><b><i>Languages</i></b></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,mongodb)](https://skillicons.dev)
@@ -42,7 +42,7 @@
 </p>
 <br/>
 
-## <img src="https://github.com/Thushal2001/Bashicomputershop-1st_Sem_Final/blob/master/src/main/resources/assets/githubImages/progress.gif" width="30px"> GitHub Streak Stats
+## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/progress.gif" width="30px"> GitHub Streak Stats
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=false)<br/>
