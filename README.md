@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavithma+Thushal)](https://git.io/typing-svg)
 
-<h3 align="center"><i>A Professional Fullstack Developer From Sri Lanka</i></h3>
+<h3 align="center"><i>A Professional FullStack Developer From Sri Lanka</i></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=IJSE+-+GDSE+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
