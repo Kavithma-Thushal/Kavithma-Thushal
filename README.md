@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="thushal2001" /> </p>
 
 ## ✌️ About me
-- 🔥 I Studied at `Vidyaloka College`
-- 🔭 I'm Studying at `IJSE`-Institute of Software Engineering
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`
+- 🏫 I Studied at `Vidyaloka College`
+- 🎓 I'm Studying at `IJSE`-Institute of Software Engineering
+- 👨‍💻 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`, `MySql`
-- 📫 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
+- 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/img.gif">
