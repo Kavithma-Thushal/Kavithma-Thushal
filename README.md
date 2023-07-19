@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/21296342/kavithma-thushal?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kavithma Thushal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kavithma_thushal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavithma thushal" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100078869062566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavithmathushal1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavithmathushal?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
 </p><br/>
 
 ## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/skills.gif" width="25px"> My Skills
