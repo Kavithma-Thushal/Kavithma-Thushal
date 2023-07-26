@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavithma+Thushal)](https://git.io/typing-svg)
 
-<h3 align="center"><i>A Professional Fullstack Developer From Sri Lanka</i></h3>
+<h3 align="center"><i>A Professional FullStack Developer From Sri Lanka</i></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=IJSE+-+GDSE+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Trainee+Software+Engineer+%7C+IJSE+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Things+%F0%9F%92%AB)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="thushal2001" /> </p>
 
 ## ✌️ About me
-- 🔥 I Studied at `Vidyaloka College`
-- 🔭 I'm Studying at `IJSE`-Institute of Software Engineering
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`
+- 🏫 I Studied at `Vidyaloka College`
+- 🎓 I'm Studying at `IJSE`-Institute of Software Engineering
+- 👨‍💻 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`, `MySql`
-- 📫 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
+- 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/img.gif">
@@ -20,11 +20,11 @@
 ## 💻 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kavithma-thushal-3b8a92260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://twitter.com/Thushal9007"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21296342/kavithma-thushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kavithma Thushal" height="30" width="40" /></a>
+<a href="https://twitter.com/Thushal451"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavithma thushal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21296342/kavithma-thushal?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kavithma Thushal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavithmathushal?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kavithma_thushal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavithma thushal" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100078869062566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavithma thushal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavithmathushal1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavithma thushal" height="30" width="40" /></a>
 </p><br/>
 
 ## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/skills.gif" width="25px"> My Skills
