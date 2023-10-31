@@ -19,8 +19,8 @@ width="400">
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <br/>
 
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/img.gif" align="right" alt="Coding"
-     width="400">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/new/Github-Profile.png" align="center" alt="portfolio"
+     width="800">
 
 ## 💻 Connect With Me
 <p align="left">
