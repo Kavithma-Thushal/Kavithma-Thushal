@@ -7,7 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Trainee+Software+Engineer+%7C+IJSE+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Things+%F0%9F%92%AB)](https://git.io/typing-svg)
 
-<iframe width="560" height="315" src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/new/Github%20-%20Profile2.mp4" frameborder="0" allowfullscreen></iframe>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/img.gif" align="right" alt="Coding"
+width="400">
 
 ## ✌️ About Me
 - 🏫 I Studied at `Vidyaloka College`
