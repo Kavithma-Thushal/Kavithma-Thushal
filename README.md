@@ -1,3 +1,7 @@
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/new/Github-Profile.png" align="center"
+alt="portfolio"
+width=max-content>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat"
                      alt="Profile Views"/></p>
 
@@ -6,10 +10,6 @@
 <h3 align="center"><i>A Professional FullStack Developer From Sri Lanka</i></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Trainee+Software+Engineer+%7C+IJSE+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Things+%F0%9F%92%AB)](https://git.io/typing-svg)
-
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/new/Github-Profile.png" align="center"
-alt="portfolio"
-width=max-content>
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/GitHub%20Images/img.gif" align="right" alt="Coding"
 width="400">
