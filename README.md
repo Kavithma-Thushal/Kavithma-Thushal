@@ -25,17 +25,23 @@
 ## 💻 Connect With Me
 
 <p align="left">
-    <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="_blank">
-    <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/gmail.png" align="center" width="40" alt="Email"/>
-    </a>
     <a href="https://www.linkedin.com/in/kavithma-thushal-3b8a92260/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" align="center" width="40" alt="Linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
+    </a>
+    <a href="https://github.com/Thushal2001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
     </a>
     <a href="https://twitter.com/Thushal451" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" align="center" width="40" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
     </a>
     <a href="https://stackoverflow.com/users/21296342/kavithma-thushal?tab=profile" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" align="center" width="40" alt="StackOver Flow"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverFlow"/>
+    </a>
+    <a href="https://gitlab.com/kavithmathushal9007" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab"/>
+    </a>
+    <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
     </a>
     <a href="https://www.hackerrank.com/kavithmathushal?hr_r=1" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" align="center" width="40" alt="HackerRank"/>
@@ -43,8 +49,8 @@
     <a href="https://www.sololearn.com/profile/27533547" target="blank">
     <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/sololearn.webp" align="center" width="40" alt="Sololearn"/>
     </a>
-    <a href="https://gitlab.com/kavithmathushal9007" target="_blank">
-    <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/gitlab.png" align="center" width="40" alt="Git Lab"/>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="_blank">
+    <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/gmail.png" align="center" width="40" alt="Email"/>
     </a>
 </p><br/>
 
@@ -60,8 +66,7 @@
 <h3 align="left"><b><i>Tools</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery,spring,hibernate,postman,maven,regex,idea,vscode,git,github,figma"/>
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=ps,linux,linkedin,twitter,stackoverflow,gitlab,instagram"/>
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery,spring,hibernate,postman,maven,regex,idea,vscode,git,linux,figma"/>
     </a>
 </p><br/>
 
