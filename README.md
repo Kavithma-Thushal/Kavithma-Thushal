@@ -53,14 +53,15 @@
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,html,css,js,mongodb"/>
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,html,css,js,mongodb,py"/>
     </a>
 </p>
 
 <h3 align="left"><b><i>Tools</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=idea,vscode,linkedin,git,github,nodejs,react,bootstrap,jquery,spring,hibernate,postman,maven,regex,figma"/>
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery,spring,hibernate,postman,maven,regex,idea,vscode,git,github,figma"/>
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=ps,linux,linkedin,twitter,stackoverflow,gitlab,instagram"/>
     </a>
 </p><br/>
 
