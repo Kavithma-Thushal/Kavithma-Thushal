@@ -1,7 +1,7 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="Views"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavithma+Thushal)](https://git.io/typing-svg)
@@ -53,15 +53,14 @@
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,js,html,css,mongodb"/>
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,html,css,js,mongodb"/>
     </a>
 </p>
 
 <h3 align="left"><b><i>Tools</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=idea,vscode,hibernate,jquery,bootstrap,spring,react,nodejs,postman,maven,regex,github,git,linkedin,figma"/>
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=ps"/>
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=idea,vscode,linkedin,git,github,nodejs,react,bootstrap,jquery,spring,hibernate,postman,maven,regex,figma"/>
     </a>
 </p><br/>
 
