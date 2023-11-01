@@ -48,10 +48,14 @@
     </a>
 </p><br/>
 
-## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/skills.gif" width="25px"> My Skills
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/skills.gif" width="25px"> My Skills
 
 <h3 align="left"><b><i>Languages</i></b></h3>
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,mongodb)](https://skillicons.dev)
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,js,html,css,mongodb"/>
+    </a>
+</p><br/>
 
 <h3 align="left"><b><i>Tools</i></b></h3>
 <p align="left">
