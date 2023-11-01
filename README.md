@@ -48,7 +48,7 @@
     </a>
 </p><br/>
 
-## My Skills <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/skills.gif" width="25px">
+## <img src="https://i.imgur.com/my-skills.gif" width="25px"> My Skills
 
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
