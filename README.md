@@ -48,14 +48,14 @@
     </a>
 </p><br/>
 
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/skills.gif" width="25px"> My Skills
+![My Skills](https://github.com/Thushal2001/Thushal2001/blob/main/Github/skills.gif)
 
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
         <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,js,html,css,mongodb"/>
     </a>
-</p><br/>
+</p>
 
 <h3 align="left"><b><i>Tools</i></b></h3>
 <p align="left">
