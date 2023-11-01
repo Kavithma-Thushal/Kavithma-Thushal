@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Trainee+Software+Engineer+%7C+IJSE+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Things+%F0%9F%92%AB)](https://git.io/typing-svg)
 
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="400" alt="Coding">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
 
 ## ✌️ About Me
 
@@ -20,7 +20,7 @@
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`, `MySql`, `JavaScript`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
-  <br/>
+  <br/><br/><br/>
 
 ## 💻 Connect With Me
 
@@ -70,7 +70,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/><br/><br/>
 
 ## ✍️ Random Dev Quote
 
