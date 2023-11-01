@@ -63,7 +63,7 @@
     </a>
 </p>
 
-<h3 align="left"><b><i>Tools</i></b></h3>
+<h3 align="left"><b><i>Frameworks, Libraries & Tools</i></b></h3>
 <p align="left">
     <a href="https://skillicons.dev">
         <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery,spring,hibernate,postman,maven,regex,idea,vscode,git,linux,figma"/>
