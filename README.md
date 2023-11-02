@@ -45,13 +45,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
     </a>
     <a href="https://www.hackerrank.com/kavithmathushal?hr_r=1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" align="center" width="40" alt="HackerRank"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="width: 50px; height: 50px" alt="HackerRank"/>
     </a>
     <a href="https://www.sololearn.com/profile/27533547" target="blank">
-    <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/sololearn.webp" align="center" width="40" alt="Sololearn"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="_blank">
-    <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/gmail.png" align="center" width="40" alt="Email"/>
+    <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/sololearn.webp" style="width: 50px; height: 50px" alt="Sololearn"/>
     </a>
 </p><br/>
 
