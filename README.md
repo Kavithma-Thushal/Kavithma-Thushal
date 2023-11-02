@@ -84,7 +84,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?username=Thushal2001&theme=radical&hide_border=true)<br/>
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)
 ![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
