@@ -84,7 +84,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=Thushal2001&theme=radical&hide_border=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
@@ -98,7 +98,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thushal2001&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical)](https://github.com/Thushal2001)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical&hide_border=true)](https://github.com/Thushal2001)
 
 <h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width=100%/>
