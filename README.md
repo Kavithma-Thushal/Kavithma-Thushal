@@ -77,6 +77,11 @@
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
+## 💫 Awards
+
+[![An image of @thushal2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thushal2001)](https://holopin.io/@thushal2001)
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+
 ## 👉 GitHub Streak Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
