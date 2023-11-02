@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavithma+Thushal)](https://git.io/typing-svg)
+
 <h3 align="center"><i>A Professional FullStack Developer From Sri Lanka</i></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Trainee+Software+Engineer+%7C+IJSE+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Things+%F0%9F%92%AB)](https://git.io/typing-svg)
@@ -15,7 +16,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka/Thushal2001)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_public/Thushal2001)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)</br>
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
