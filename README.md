@@ -60,7 +60,8 @@
     <a href="https://www.sololearn.com/profile/27533547" target="blank">
     <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/sololearn.webp" style="width: 50px; height: 50px" alt="Sololearn"/>
     </a>
-</p><br/>
+</p>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 👌 My Skills
 
@@ -76,7 +77,8 @@
     <a href="https://skillicons.dev">
         <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery,spring,hibernate,postman,maven,regex,idea,vscode,git,linux,figma"/>
     </a>
-</p><br/>
+</p>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 👉 GitHub Streak Stats
 
