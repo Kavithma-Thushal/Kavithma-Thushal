@@ -1,4 +1,4 @@
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
+<img src="Github/portfolio.gif" alt="portfolio">
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="Views"/>
