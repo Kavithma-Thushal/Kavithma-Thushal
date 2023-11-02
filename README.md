@@ -55,7 +55,7 @@
     </a>
 </p><br/>
 
-## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/skills.gif" width="25px"> My Skills
+## 👌 My Skills
 
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
@@ -71,7 +71,7 @@
     </a>
 </p><br/>
 
-## <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/progress.gif" width="30px"> GitHub Streak Stats
+## 👉 GitHub Streak Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
@@ -81,6 +81,8 @@
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical)](https://github.com/Thushal2001)
 
 ## ⭐️ GitHub Stats
 
