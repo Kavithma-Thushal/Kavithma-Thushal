@@ -21,7 +21,6 @@
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
 
-<br/>
 ## ✌️ About Me
 
 - 🏫 I Studied at `Vidyaloka College`
@@ -30,7 +29,8 @@
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`, `MySql`, `JavaScript`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
-  <br/><br/><br/><br/><br/>
+
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 💻 Connect With Me
 
