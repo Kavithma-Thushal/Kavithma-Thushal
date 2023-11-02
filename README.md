@@ -17,6 +17,8 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_public/Thushal2001)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)</br>
 
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
 
 <br/>
