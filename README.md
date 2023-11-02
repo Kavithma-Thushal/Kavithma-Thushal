@@ -8,14 +8,13 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Thushal2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
-</p>
-<p align="left">
     <a href="https://wakatime.com/@bde2acba-42bd-46e8-a905-d74c6f260407">
         <img src="https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407.svg" alt="Total time coded since Feb 19 2023"/>
     </a>
 </p>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka/Thushal2001)</br>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_public/Thushal2001)</br>
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka/Thushal2001)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_public/Thushal2001)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)</br>
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
