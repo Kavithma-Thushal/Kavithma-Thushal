@@ -7,7 +7,7 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 <a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
   <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
-</a>>
+</a>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Thushal2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
