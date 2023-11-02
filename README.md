@@ -1,6 +1,7 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
 
-<p align="center">
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka/Thushal2001)
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="Views"/>
 </p>
 
