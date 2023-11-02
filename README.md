@@ -31,7 +31,7 @@
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`, `JavaScript`, `MySql`, `MongoDB`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+  <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 💻 Connect With Me
 
@@ -101,4 +101,12 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical&hide_border=true)](https://github.com/Thushal2001)
 
 <h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
+<div style="text-align: center">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
+    <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge" alt="Google Meet">
+    <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" alt="Slack">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge" alt="Facebook">
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width=100%/>
