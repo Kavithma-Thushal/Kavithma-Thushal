@@ -63,7 +63,7 @@
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 👌 My Skills
+## 🔥 My Skills
 
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
@@ -109,5 +109,5 @@ motivation to keep providing quality assistance_** 🥺👇
 <a href="https://www.buymeacoffee.com/thushal2001">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
 </a>
-<h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
+<h4 align="center"><i>Thank you for coming to my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width=100%/>
