@@ -16,9 +16,7 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/anonymous.gif" align="right" width="370" alt="anonymous">
-
-<br/>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/anonymous.gif" align="right" height="250px" alt="anonymous">
 
 ## ✌️ About Me
 
