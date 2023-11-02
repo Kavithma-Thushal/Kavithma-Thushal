@@ -99,6 +99,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical&hide_border=true)](https://github.com/Thushal2001)
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 <h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <div style="text-align: center">
