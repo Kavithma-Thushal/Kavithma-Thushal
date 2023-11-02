@@ -106,7 +106,8 @@
 **_If you enjoy what I do, please consider buying me a coffee. Your support is greatly appreciated and fuels my
 motivation to keep providing quality assistance_** 🥺👇
 
-<a href="https://www.buymeacoffee.com/NimeshPiyumanth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
-
+<a href="https://www.buymeacoffee.com/thushal2001">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
+</a>
 <h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width=100%/>
