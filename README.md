@@ -9,8 +9,8 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Thushal2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
-    <a href="https://wakatime.com/@bde2acba-42bd-46e8-a905-d74c6f260407">
-        <img src="https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407.svg" alt="Total time coded since Feb 19 2023"/>
+    <a href="https://wakatime.com/@018b9031-df21-41d8-921c-303430e17fed">
+        <img src="https://wakatime.com/badge/user/018b9031-df21-41d8-921c-303430e17fed.svg" alt="Total time coded since Feb 19 2023"/>
     </a>
 </p>
 
