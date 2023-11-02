@@ -13,6 +13,7 @@
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
 
+<br/>
 ## ✌️ About Me
 
 - 🏫 I Studied at `Vidyaloka College`
