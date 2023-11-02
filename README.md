@@ -21,7 +21,7 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
 
-<br/><br/>
+<br/>
 
 ## ✌️ About Me
 
