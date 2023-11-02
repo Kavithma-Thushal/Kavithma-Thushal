@@ -7,20 +7,16 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Thushal2001&label=Profile%20views&color=0e75b6&style=flat" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Thushal2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
 </p>
 <p align="left">
-    <a href="https://wakatime.com/@bde2acba-42bd-46e8-a905-d74c6f260407"><img src="https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407.svg" alt="Total time coded since Feb 5 2023" /></a>
+    <a href="https://wakatime.com/@bde2acba-42bd-46e8-a905-d74c6f260407">
+        <img src="https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407.svg" alt="Total time coded since Feb 19 2023"/>
+    </a>
 </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-      <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-9b59b6" />
-  </a>
-</p>
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/NimeshPiyumantha.svg)](https://user-badge.committers.top/sri_lanka/NimeshPiyumantha)</br>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NimeshPiyumantha.svg)](https://user-badge.committers.top/sri_lanka_public/NimeshPiyumantha)</br>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/NimeshPiyumantha.svg)](https://user-badge.committers.top/sri_lanka_private/NimeshPiyumantha)</br>
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka/Thushal2001)</br>
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_public/Thushal2001)</br>
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)</br>
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/coding.gif" align="right" width="370" alt="Coding">
 
