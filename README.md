@@ -99,6 +99,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical&hide_border=true)](https://github.com/Thushal2001)
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+
+## 🤞 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
+
+**_If you enjoy what I do, please consider buying me a coffee. Your support is greatly appreciated and fuels my
+motivation to keep providing quality assistance_** 🥺👇
+
+<a href="https://www.buymeacoffee.com/NimeshPiyumanth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
 <h4 align="center"><i>Thank you for coming my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width=100%/>
