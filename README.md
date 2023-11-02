@@ -29,11 +29,11 @@
     <a href="https://www.linkedin.com/in/kavithma-thushal-3b8a92260/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
     </a>
-    <a href="https://github.com/Thushal2001" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
-    </a>
     <a href="https://twitter.com/Thushal451" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+    </a>
+    <a href="https://github.com/Thushal2001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
     </a>
     <a href="https://stackoverflow.com/users/21296342/kavithma-thushal?tab=profile" target="blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverFlow"/>
