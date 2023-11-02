@@ -25,7 +25,7 @@
 
 ## 💻 Connect With Me
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/kavithma-thushal-3b8a92260/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/>
     </a>
