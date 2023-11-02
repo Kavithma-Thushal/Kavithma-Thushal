@@ -26,12 +26,12 @@
 ## ✌️ About Me
 
 - 🏫 I Studied at `Vidyaloka College`
-- 🎓 I'm Studying at `IJSE`-Institute of Software Engineering
+- 🎓 I'm Studying at `IJSE` - Institute of Software Engineering
 - 👨‍💻 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
-- 💻 Ask me about `Java`, `OOP`, `MySql`, `JavaScript`
+- 💻 Ask me about `Java`, `OOP`, `JavaScript`, `MySql`, `MongoDB`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
-  <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 💻 Connect With Me
 
@@ -85,7 +85,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/><br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## ✍️ Random Dev Quote
 
