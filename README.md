@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavithma+Thushal;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)
 <h3 align="center"><i>A Professional FullStack Developer From Sri Lanka</i></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)<a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+<a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
 </a>
 
