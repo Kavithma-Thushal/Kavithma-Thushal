@@ -23,7 +23,7 @@
 - 🎓 I'm Studying at `IJSE` - Institute of Software Engineering
 - 👨‍💻 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
-- 💻 Ask me about `Java`, `OOP`, `JavaScript`, `MySql`, `MongoDB`
+- 💻 Ask me about `Java`, `OOP`, `MySQL`, `MongoDB`, `HTML`, `CSS`, `JavaScript`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
