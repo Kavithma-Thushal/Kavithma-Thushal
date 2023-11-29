@@ -27,6 +27,27 @@
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
   <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
+## 🫵 Who Am I ?
+
+```python
+ class WhoAmI:
+    user = "Kavithma Thushal"
+    current_edu = "IJSE-Institute of Software Engineering"
+    currently_Studied = "Computer Science and Software Engineering"
+    currently_learning = "Java, OOP, MySQL, MongoDB, HTML, CSS, JavaScript ..."
+    fun_fact = "I hate sweets"
+    hobbies = ['Music', 'Chilling', 'Gaming', 'Sci-Fi Movies', 'learning new things']
+
+    def getCity():
+        return Galle_Srilanka()
+
+    def Ambition():
+        BecomeSoftwareEngineer()
+
+```
+
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+
 ## 💻 Connect With Me
 
 <p align="left">
