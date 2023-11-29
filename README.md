@@ -117,16 +117,16 @@ public class WhoAmI {
 
 ## 👉 GitHub Streak Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Thushal2001&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=radical&hide_border=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Thushal2001&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Thushal2001&theme=black-ice&hide_border=true&stroke=0000&background=000000)
+![](https://github-profile-trophy.vercel.app/?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)<br/>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black_ice)
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## ⭐️ GitHub Stats
@@ -134,7 +134,7 @@ public class WhoAmI {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thushal2001&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushal2001&theme=2077)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&theme=redical&hide_border=true)](https://github.com/Thushal2001)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Thushal2001)
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 🤞 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
@@ -146,4 +146,4 @@ motivation to keep providing quality assistance_** 🥺👇
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
 </a>
 <h4 align="center"><i>Thank you for coming to my GitHub Profile 🤝 Have a wonderful day!</i></h4>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer" width=100%/>
