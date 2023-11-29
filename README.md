@@ -36,7 +36,7 @@ public class WhoAmI {
     public static String user = "Kavithma Thushal";
     public static String institute = "IJSE - Institute of Software Engineering";
     public static String learning = "Computer Science and Software Engineering";
-    public static List<String> skills = List.of("Java, OOP, MySQL, MongoDB, HTML, CSS, JavaScript");
+    public static List<String> skills = List.of("Java", "OOP", "MySQL", "MongoDB", "HTML", "CSS", "JavaScript");
     public static List<String> positions = List.of("FullStack Developer", "Web Developer", "UI-UX Engineer");
     public static List<String> hobbies = List.of("Gaming", "Music", "Sci-Fi Movies", "Coding", "Learning New Things");
 
@@ -51,7 +51,7 @@ public class WhoAmI {
     public static void main(String[] args) {
         System.out.println("User : " + user);
         System.out.println("Current Education : " + institute);
-        System.out.println("Currently learning : " + learning);
+        System.out.println("Current Learning : " + learning);
         System.out.println("My Skills : " + skills);
         System.out.println("I can help with : " + positions);
         System.out.println("Hobbies : " + hobbies);
