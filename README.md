@@ -40,7 +40,7 @@ public class WhoAmI {
     public static List<String> positions = List.of("FullStack Developer", "Web Developer", "UI-UX Engineer");
     public static List<String> hobbies = List.of("Gaming", "Music", "Sci-Fi Movies", "Coding", "Learning New Things");
 
-    public static String city() {
+    public static String getCity() {
         return "Galle/SriLanka";
     }
 
@@ -55,7 +55,7 @@ public class WhoAmI {
         System.out.println("My Skills : " + skills);
         System.out.println("I can help with : " + positions);
         System.out.println("Hobbies : " + hobbies);
-        System.out.println("City : " + city());
+        System.out.println("City : " + getCity());
         System.out.println("Ambition : " + ambition());
     }
 }
