@@ -41,7 +41,7 @@ public class WhoAmI {
     public static List<String> hobbies = List.of("Gaming", "Music", "Sci-Fi Movies", "Coding", "Learning New Things");
 
     public static String getCity() {
-        return "Galle/SriLanka";
+        return "Galle-SriLanka";
     }
 
     public static String ambition() {
@@ -49,14 +49,14 @@ public class WhoAmI {
     }
 
     public static void main(String[] args) {
-        System.out.println("User : " + user);
-        System.out.println("Current Education : " + institute);
-        System.out.println("Current Learning : " + learning);
-        System.out.println("My Skills : " + skills);
-        System.out.println("I can help with : " + positions);
-        System.out.println("Hobbies : " + hobbies);
-        System.out.println("City : " + getCity());
-        System.out.println("Ambition : " + ambition());
+        System.out.println("My name is : " + user);
+        System.out.println("I am learning in : " + institute);
+        System.out.println("Current Studying : " + learning);
+        System.out.println("My Skills are : " + skills);
+        System.out.println("I can join with : " + positions);
+        System.out.println("My hobbies are : " + hobbies);
+        System.out.println("I live in : " + getCity());
+        System.out.println("My ambition is : " + ambition());
     }
 }
 ```
