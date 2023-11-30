@@ -33,12 +33,12 @@
 import java.util.List;
 
 public class WhoAmI {
-    public static String user = "Kavithma Thushal";
+    public static String user      = "Kavithma Thushal";
     public static String institute = "IJSE - Institute of Software Engineering";
-    public static String learning = "Computer Science and Software Engineering";
-    public static List<String> skills = List.of("Java", "OOP", "MySQL", "MongoDB", "HTML", "CSS", "JavaScript");
+    public static String learning  = "Computer Science and Software Engineering";
+    public static List<String> skills    = List.of("Java", "OOP", "MySQL", "MongoDB", "HTML", "CSS", "JavaScript");
     public static List<String> positions = List.of("FullStack Developer", "Web Developer", "UI-UX Engineer");
-    public static List<String> hobbies = List.of("Gaming", "Music", "Sci-Fi Movies", "Coding", "Learning New Things");
+    public static List<String> hobbies   = List.of("Gaming", "Music", "Sci-Fi Movies", "Coding", "Learning New Things");
 
     public static String getCity() {
         return "Galle-SriLanka";
@@ -49,14 +49,14 @@ public class WhoAmI {
     }
 
     public static void main(String[] args) {
-        System.out.println("My name is : " + user);
-        System.out.println("I am learning in : " + institute);
-        System.out.println("Current Studying : " + learning);
-        System.out.println("My Skills are : " + skills);
-        System.out.println("I can join with : " + positions);
-        System.out.println("My hobbies are : " + hobbies);
-        System.out.println("I live in : " + getCity());
-        System.out.println("My ambition is : " + ambition());
+        System.out.println("My name is         : " + user);
+        System.out.println("I am learning in   : " + institute);
+        System.out.println("Currently studying : " + learning);
+        System.out.println("My skills are      : " + skills);
+        System.out.println("I can join with    : " + positions);
+        System.out.println("My hobbies are     : " + hobbies);
+        System.out.println("I live in          : " + getCity());
+        System.out.println("My ambition is     : " + ambition());
     }
 }
 ```
