@@ -128,7 +128,6 @@ public class WhoAmI {
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/certificates/HackerRank/HackerRank%20Problem%20Solving%20(Basic).jpg" alt="Problem Solving(Basic)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/55a59b4eef98" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/certificates/HackerRank/HackerRank%20Problem%20Solvin%20(Intermediate).jpg" alt="Problem Solving(Intermediate)" width=200px"></a>
-
 <a href="https://www.buymeacoffee.com/thushal2001">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
 </a>
