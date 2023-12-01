@@ -113,7 +113,7 @@ public class WhoAmI {
 ## 💫 Certificates
 
 <a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio" width="300px">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio" width="200px">
 </a>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
