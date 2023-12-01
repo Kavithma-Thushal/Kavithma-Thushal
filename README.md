@@ -130,8 +130,8 @@ public class WhoAmI {
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/certificates/HackerRank/HackerRank%20Problem%20Solving%20(Intermediate).jpg" alt="Problem Solving(Intermediate)" width=200px"></a>
 
 <p align="center">
-<a href="https://thushal2001.github.io/MyPortfolio/">
-  <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/button.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
+<a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
+  <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/button.png" alt="More Certificates" style="height: 35px !important; width: 120px !important">
 </a>
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
@@ -163,8 +163,10 @@ public class WhoAmI {
 **_If you enjoy what I do, please consider buying me a coffee. Your support is greatly appreciated and fuels my
 motivation to keep providing quality assistance_** 🥺👇
 
-<a href="https://www.buymeacoffee.com/thushal2001">
+<p align="center">
+<a href="https://www.buymeacoffee.com/thushal2001" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
 </a>
+</p>
 <h4 align="center"><i>Thank you for coming to my GitHub Profile 🤝 Have a wonderful day!</i></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer" width=100%/>
