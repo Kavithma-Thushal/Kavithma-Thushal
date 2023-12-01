@@ -130,7 +130,7 @@ public class WhoAmI {
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/HackerRank/HackerRank%20Problem%20Solving%20(Intermediate).jpg" alt="Problem Solving(Intermediate)" width=200px"></a>
 
 <p align="center">
-<a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
+<a href="https://thushal2001.github.io/Thushal2001/Github/Certificates/certificates.html" target="_blank">
   <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/button.png" alt="More Certificates" style="height: 35px !important; width: 120px !important">
 </a>
 </p>
