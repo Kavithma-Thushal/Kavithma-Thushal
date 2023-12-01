@@ -112,8 +112,8 @@ public class WhoAmI {
 
 ## 💫 Certificates
 
-<a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio" width=200px">
+<a href="https://www.hackerrank.com/certificates/5f560c96f880" target="_blank">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/certificates/HackerRank/HackerRank%20CSS%20(Basic).jpg" alt="portfolio" width=200px">
 </a>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
