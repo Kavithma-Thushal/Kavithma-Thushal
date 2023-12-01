@@ -110,9 +110,11 @@ public class WhoAmI {
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 💫 Awards
+## 💫 Certificates
 
-[![An image of @thushal2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thushal2001)](https://holopin.io/@thushal2001)
+<a href="https://thushal2001.github.io/MyPortfolio/" target="_blank">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio" width="200px">
+</a>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ## 👉 GitHub Streak Stats
