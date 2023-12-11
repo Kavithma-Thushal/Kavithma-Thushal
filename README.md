@@ -17,7 +17,7 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/anonymous.gif" align="right" height="250px" alt="anonymous">
 
-## ✌️ About Me
+### ✌️ About Me
 
 - 🏫 I Studied at `Vidyaloka College`
 - 🎓 I'm Studying at `IJSE` - Institute of Software Engineering
@@ -27,7 +27,7 @@
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 🫵 Who Am I ?
+### 🫵 Who Am I ?
 
 ```python
 import java.util.List;
@@ -63,7 +63,7 @@ public class WhoAmI {
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 💻 Connect With Me
+### 💻 Connect With Me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/kavithma-thushal-3b8a92260/" target="_blank">
@@ -93,7 +93,7 @@ public class WhoAmI {
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 🔥 My Skills
+### 🔥 My Skills
 
 <h3 align="left"><b><i>Languages</i></b></h3>
 <p align="left">
@@ -110,7 +110,7 @@ public class WhoAmI {
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 💫 Certificates
+### 💫 Certificates
 
 <a href="https://www.hackerrank.com/certificates/d842215d0cf4" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Java_Basic.jpg" alt="java(Basic)" width=200px"></a>
@@ -136,7 +136,7 @@ public class WhoAmI {
 </p>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 👉 GitHub Streak Stats
+### 👉 GitHub Streak Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
@@ -145,12 +145,16 @@ public class WhoAmI {
 ![](https://github-profile-trophy.vercel.app/?username=Thushal2001&title_color=00e7ff&icon_color=00e7ff&bg_color=000000&text_color=FFFFFF&hide_border=true)<br/>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black_ice)
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## ⭐️ GitHub Stats
+## 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px"/>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+
+### ⭐️ GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thushal2001&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushal2001&theme=2077)<br/>
@@ -158,7 +162,7 @@ public class WhoAmI {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thushal2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Thushal2001)
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
-## 🤞 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
+### 🤞 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
 **_If you enjoy what I do, please consider buying me a coffee. Your support is greatly appreciated and fuels my
 motivation to keep providing quality assistance_** 🥺👇
