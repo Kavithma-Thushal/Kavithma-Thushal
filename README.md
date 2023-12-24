@@ -114,22 +114,22 @@ public class WhoAmI {
 
 ### 💫 Certificates
 
+<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=697" target="_blank">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/Moratuwa/Web_Design_for_Beginners.png" alt="Web_Design_for_Beginners" width=200px"></a>
+<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=839" target="_blank">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/Moratuwa/Front-End_Web_Development.jpg" alt="Front-End_Web_Development" width=200px"></a>
+<a href="https://open.uom.lk/lms/mod/customcert/view.php?id=675" target="_blank">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/Moratuwa/Python_for_Beginners.png" alt="Python_for_Beginners" width=200px"></a>
+<a href="https://www.hackerrank.com/certificates/55a59b4eef98" target="_blank">
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_React_Basic.jpg" alt="React(Basic)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/d842215d0cf4" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Java_Basic.jpg" alt="java(Basic)" width=200px"></a>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Java_Basic.jpg" alt="Java(Basic)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/c6c4b1b4f024" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_SQL_Basic.jpg" alt="SQL(Basic)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/0c7ce2dd6376" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_SQL_Intermediate.jpg" alt="SQL(Intermediate)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/c26ef9d24fb5" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_SQL_Advanced.jpg" alt="SQL(Advanced)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/3429192bd847" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Python_Basic.jpg" alt="Python(Basic)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/5f560c96f880" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_CSS_Basic.jpg" alt="CSS(Basic)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/1c79bc7d4b45" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Problem_Solving_Basic.jpg" alt="Problem Solving(Basic)" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/55a59b4eef98" target="_blank">
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Problem_Solving_Intermediate.jpg" alt="Problem Solving(Intermediate)" width=200px"></a>
 
 <p align="center">
 <a href="https://thushal2001.github.io/Thushal2001/Github/Certificates/certificates.html" target="_blank">
