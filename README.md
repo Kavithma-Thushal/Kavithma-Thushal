@@ -120,7 +120,7 @@ public class WhoAmI {
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/Moratuwa/Front-End_Web_Development.jpg" alt="Front-End_Web_Development" width=200px"></a>
 <a href="https://open.uom.lk/lms/mod/customcert/view.php?id=675" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/Moratuwa/Python_for_Beginners.png" alt="Python_for_Beginners" width=200px"></a>
-<a href="https://www.hackerrank.com/certificates/55a59b4eef98" target="_blank">
+<a href="https://www.hackerrank.com/certificates/a75456cf0924" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_React_Basic.jpg" alt="React(Basic)" width=200px"></a>
 <a href="https://www.hackerrank.com/certificates/d842215d0cf4" target="_blank">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/Certificates/assets/certificates/HackerRank/HackerRank_Java_Basic.jpg" alt="Java(Basic)" width=200px"></a>
