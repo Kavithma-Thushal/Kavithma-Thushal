@@ -15,12 +15,12 @@
     font-weight: bold;
     color: white;
     margin: 0;
-    padding-top: 15px;
+    padding-top: 6px;
     position: absolute;
     bottom: 0;
     text-align: center;
     width: 100%;
-    height: 60px;
+    height: 70px;
     background: rgba(0, 0, 0, 0.8);
 }
 
@@ -28,6 +28,24 @@
     font-size: 15px;
     color: dodgerblue;
     font-weight: bold;
+}
+
+.info a {
+    font-family: Ubuntu, sans-serif;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    padding-bottom: 3px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: fit-content;
+}
+
+.info a:hover {
+    color: dodgerblue;
+    transition: 0.3s ease;
 }
 
 body {
