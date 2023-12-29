@@ -97,19 +97,18 @@ public class WhoAmI {
 
 ### 🔥 My Skills
 
-<h3 align="left"><b><i>Languages</i></b></h3>
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=java,mysql,html,css,js,mongodb,py"/>
-    </a>
-</p>
+<div align="center">
 
-<h3 align="left"><b><i>Frameworks, Libraries & Tools</i></b></h3>
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img style="display: block; margin-bottom: 8px" src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,jquery,spring,hibernate,postman,maven,regex,idea,vscode,git,linux,figma"/>
-    </a>
-</p>
+| Title           | Icon                                                                                                               |
+|-----------------|--------------------------------------------------------------------------------------------------------------------|
+| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                            |
+| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                                |
+| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/>          |
+| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>               |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                               |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow,linkedin"/> |
+
+</div>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ### 💫 Certificates
