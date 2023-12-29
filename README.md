@@ -69,14 +69,14 @@ public class WhoAmI {
 
 <div align="center">
 
-| Title           | Icon                                                                                                               |
-|-----------------|--------------------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                            |
-| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                               |
-| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                                |
-| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/>          |
-| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>               |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow,linkedin,twitter"/> |
+| Title           | Icon                                                                                                      |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
+| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                   |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
+| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                       |
+| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/> |
+| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>      |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow"/> |
 
 </div>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
