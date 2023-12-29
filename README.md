@@ -65,6 +65,22 @@ public class WhoAmI {
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
+### 🔥 My Skills
+
+<div align="center">
+
+| Title           | Icon                                                                                                               |
+|-----------------|--------------------------------------------------------------------------------------------------------------------|
+| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                            |
+| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                               |
+| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                                |
+| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/>          |
+| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>               |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow,linkedin,twitter"/> |
+
+</div>
+<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
+
 ### 💻 Connect With Me
 
 <p align="left">
@@ -93,22 +109,6 @@ public class WhoAmI {
     <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/sololearn.webp" style="width: 50px; height: 50px" alt="Sololearn"/>
     </a>
 </p>
-<img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
-
-### 🔥 My Skills
-
-<div align="center">
-
-| Title           | Icon                                                                                                               |
-|-----------------|--------------------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                            |
-| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                               |
-| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                                |
-| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/>          |
-| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>               |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow,linkedin"/> |
-
-</div>
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 
 ### 💫 Certificates
