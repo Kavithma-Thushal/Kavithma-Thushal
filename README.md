@@ -13,8 +13,6 @@
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka/Thushal2001)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_public/Thushal2001)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Thushal2001.svg)](https://user-badge.committers.top/sri_lanka_private/Thushal2001)
 
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/break_line.gif" alt="break line">
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/anonymous.gif" align="right" height="250px" alt="anonymous">
