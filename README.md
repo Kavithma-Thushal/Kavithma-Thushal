@@ -6,7 +6,7 @@
 <img src="https://github.com/Thushal2001/Thushal2001/blob/main/Github/portfolio.png" alt="portfolio">
 </a>
 
-<p align="left">My Portfolio : https://thushal2001.github.io/MyPortfolio</p></br>
+<p align="left">My Portfolio : https://kavithma-thushal.github.io/MyPortfolio</p></br>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Thushal2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
