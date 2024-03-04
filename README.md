@@ -167,7 +167,7 @@ public class WhoAmI {
 motivation to keep providing quality assistance_** 🥺👇
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/Kavithma-Thushal" target="_blank">
+<a href="https://www.buymeacoffee.com/Kavithma_Thushal" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important">
 </a>
 </p>
