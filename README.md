@@ -6,7 +6,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/portfolio.png" alt="portfolio">
 </a>
 
-<p align="left">My Portfolio : https://Kavithma-Thushal.github.io/MyPortfolio</p></br>
+#### <a href="https://Kavithma-Thushal.github.io/MyPortfolio">My Portfolio</a></br>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Kavithma-Thushal&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
