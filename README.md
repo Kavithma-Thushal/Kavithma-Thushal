@@ -67,14 +67,15 @@ public class WhoAmI {
 
 <div align="center">
 
-| Title           | Icon                                                                                                      |
-|-----------------|-----------------------------------------------------------------------------------------------------------|
-| IDE             | <img src="https://skillicons.dev/icons?i=idea,vscode"/>                                                   |
-| UI Tools        | <img src="https://skillicons.dev/icons?i=figma,ps"/>                                                      |
-| App Development | <img src="https://skillicons.dev/icons?i=java,py"/>                                                       |
-| Front End       | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,vue,js,jquery,react,ts"/> |
-| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,regex,mysql,mongodb"/>      |
-| Others          | <img src="https://skillicons.dev/icons?i=github,git,gitlab,maven,postman,discord,codepen,stackoverflow"/> |
+| Title                          | Icon                                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,js,ts,kotlin,python,html,css"/>                                    |
+| Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,vue,angular,tailwind"/> |
+| Mobile Application Development | <img src="https://skillicons.dev/icons?i=flutter,firebase"/>                                                     |
+| Tools                          | <img src="https://skillicons.dev/icons?i=figma,postman,maven,gradle,idea,vscode,androidstudio"/>                 |
+| Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
+| Version Control                | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>                                                    |
+| Others                         | <img src="https://skillicons.dev/icons?i=jquery,regex,npm"/>                                                     |
 
 </div>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
@@ -89,13 +90,13 @@ public class WhoAmI {
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
     </a>
     <a href="https://github.com/Kavithma-Thushal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
     </a>
     <a href="https://stackoverflow.com/users/21296342/kavithma-thushal?tab=profile" target="blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverFlow"/>
     </a>
     <a href="https://gitlab.com/kavithmathushal9007" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/>
     </a>
     <a href="https://www.instagram.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
@@ -147,10 +148,6 @@ public class WhoAmI {
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black_ice)
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px"/>
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 ### ⭐️ GitHub Stats
