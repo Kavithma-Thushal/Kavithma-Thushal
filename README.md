@@ -23,7 +23,7 @@
 - 🎓 I'm Studying at `IJSE` - Institute of Software Engineering
 - 👨‍💻 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
-- 💻 Ask me about `Java`, `OOP`,`Spring Boot`, `JS`, `TS`, `React`, `MySQL`, `MongoDB`,
+- 💻 Ask me about `Java`, `OOP`,`Spring Boot`, `JS`, `TS`, `React`, `MySQL`, `MongoDB`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
@@ -69,7 +69,8 @@ public class WhoAmI {
 
 | Title                          | Icon                                                                                                             |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,js,ts,kotlin,python,html,css"/>                                    |
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,js,ts,kotlin,python"/>                                             |
+| Scripting Languages            | <img src="https://skillicons.dev/icons?i=html,css"/>                                                             |
 | Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,vue,angular,tailwind"/> |
 | Mobile Application Development | <img src="https://skillicons.dev/icons?i=flutter,firebase"/>                                                     |
 | Tools                          | <img src="https://skillicons.dev/icons?i=figma,postman,maven,gradle,idea,vscode,androidstudio"/>                 |
