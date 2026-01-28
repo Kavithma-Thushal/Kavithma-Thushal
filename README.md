@@ -24,8 +24,9 @@
 - 👨‍💻 I’m currently learning `Computer Science` and `Software Engineering`
 - 🤔 I’m looking for `Help With Coding`
 - 💻 Ask me about `Java`, `OOP`,`Spring Boot`, `JS`, `TS`, `React`, `MySQL`, `MongoDB`
-- 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007` `078 3686117`
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+- 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
+  `078 3686117`
+  <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 ### 🫵 Who Am I ?
 
