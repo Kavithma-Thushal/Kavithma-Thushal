@@ -2,19 +2,7 @@
 <h3 align="center"><i>A Professional Full Stack Developer From Sri Lanka</i></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-<a href="https://Kavithma-Thushal.github.io/MyPortfolio/" target="_blank">
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/portfolio.png" alt="portfolio">
-</a>
 
-### <a href="https://Kavithma-Thushal.github.io/MyPortfolio">🔗 My Portfolio</a></br>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Kavithma-Thushal&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
-</p>
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/Kavithma-Thushal.svg)](https://user-badge.committers.top/sri_lanka/Kavithma-Thushal)
-
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/anonymous.gif" align="right" height="250px" alt="anonymous">
 
 ### ✌️ About Me
@@ -26,7 +14,14 @@
 - 💻 Ask me about `Java`, `OOP`,`Spring Boot`, `JS`, `TS`, `React`, `MySQL`, `MongoDB`
 - 📧 How to reach me [kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com) `077 4519007`
   `078 3686117`
-  <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Kavithma-Thushal&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
+</p>
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/Kavithma-Thushal.svg)](https://user-badge.committers.top/sri_lanka/Kavithma-Thushal)
+
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 ### 🫵 Who Am I ?
 
